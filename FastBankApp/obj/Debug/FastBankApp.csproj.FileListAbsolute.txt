@@ -1,0 +1,8 @@
+H:\Taukir\FastBankApp\FastBankApp\bin\Debug\FastBankApp.exe.config
+H:\Taukir\FastBankApp\FastBankApp\bin\Debug\FastBankApp.exe
+H:\Taukir\FastBankApp\FastBankApp\bin\Debug\FastBankApp.pdb
+H:\Taukir\FastBankApp\FastBankApp\obj\Debug\CustomerAccountInfoApp.CustomerAccountUI.resources
+H:\Taukir\FastBankApp\FastBankApp\obj\Debug\FastBankApp.Properties.Resources.resources
+H:\Taukir\FastBankApp\FastBankApp\obj\Debug\FastBankApp.csproj.GenerateResource.Cache
+H:\Taukir\FastBankApp\FastBankApp\obj\Debug\FastBankApp.exe
+H:\Taukir\FastBankApp\FastBankApp\obj\Debug\FastBankApp.pdb
